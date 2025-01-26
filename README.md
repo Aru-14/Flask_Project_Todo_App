@@ -33,28 +33,28 @@
 ```
 
 ### 🛠️ Installation & Setup  
-1. Clone the repository:  
+- Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/flask-todo-app.git
+   git clone [https://github.com/your-username/flask-todo-app.git](https://github.com/Aru-14/Flask_Project_Todo_App.git)
    cd flask-todo-app
    ```
-Create a virtual environment and activate it:
+- Create a virtual environment and activate it:
 
    ```bash
   python -m venv venv  
   source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
-Install the required dependencies:
+- Install the required dependencies:
    ```bash
   pip install -r requirements.txt
    ```
-Run the Flask application:
+ - Run the Flask application:
    ```bash
-python app.py
+      python app.py
    ```
-Open your browser and go to:
+ - Open your browser and go to:
    ```
-http://127.0.0.1:5000/
+   http://127.0.0.1:5000/
    ```
 🤝 Contributing
 Contributions are welcome! If you'd like to contribute:
@@ -70,8 +70,9 @@ Fork the repository.
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
 🙌 Acknowledgments
-Flask documentation: https://flask.palletsprojects.com/
-Bootstrap for responsive design: https://getbootstrap.com/
+
+- Flask documentation: https://flask.palletsprojects.com/
+- Bootstrap for responsive design: https://getbootstrap.com/
 
 
 
