@@ -35,7 +35,7 @@
 ### 🛠️ Installation & Setup  
 - Clone the repository:  
    ```bash
-   git clone [https://github.com/your-username/flask-todo-app.git](https://github.com/Aru-14/Flask_Project_Todo_App.git)
+   git clone https://github.com/your-username/flask-todo-app.git
    cd flask-todo-app
    ```
 - Create a virtual environment and activate it:
@@ -54,7 +54,7 @@
    ```
  - Open your browser and go to:
    ```
-   http://127.0.0.1:5000/
+   http://127.0.0.1:5000/ #8000 might be there when you run
    ```
 🤝 Contributing
 Contributions are welcome! If you'd like to contribute:
