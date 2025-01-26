@@ -37,29 +37,20 @@ Edit
    cd flask-todo-app
 Create a virtual environment and activate it:
 
-bash
-Copy
-Edit
-python -m venv venv  
-source venv/bin/activate  # On Windows: venv\Scripts\activate  
-Install the required dependencies.
+   ```bash
+  python -m venv venv  
+  source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-pip install -r requirements.txt  
+Install the required dependencies:
+   ```bash
+  pip install -r requirements.txt
+
 Run the Flask application:
+   ```bash
+python app.py
 
-python app.py  
 Open your browser and go to:
-
-arduino
-Copy
-Edit
 http://127.0.0.1:5000/
-📸 Screenshots
-Homepage (List of Tasks):
-
-
-Add New Task:
-
 
 🤝 Contributing
 Contributions are welcome! If you'd like to contribute:
@@ -77,10 +68,6 @@ Flask documentation: https://flask.palletsprojects.com/
 Bootstrap for responsive design: https://getbootstrap.com/
 Built with ❤️ by Your Name
 
-yaml
-Copy
-Edit
 
----
 
 Feel free to customize it with your name, screenshots, or additional details about your app! Let me 
