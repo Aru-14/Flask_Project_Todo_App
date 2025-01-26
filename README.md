@@ -12,9 +12,13 @@
 - **Backend**: Flask (Python Web Framework)  
 - **Frontend**: HTML, CSS, Bootstrap  
 - **Database**: SQLAlchemy (ORM for managing tasks)  
-- **Deployment**: Vercel  
-```
+- **Deployment**: Vercel
+
 ---
+
+
+ ### 📂 Project Structure 
+```
 ├── app.py # Main application file
 ├── templates/ # HTML templates for UI
 │ ├── index.html # Homepage to display tasks
@@ -45,8 +49,8 @@ Run the Flask application:
    ```bash
 python app.py
    ```
-   ```
 Open your browser and go to:
+   ```
 http://127.0.0.1:5000/
    ```
 🤝 Contributing
@@ -54,10 +58,10 @@ Contributions are welcome! If you'd like to contribute:
 
 Fork the repository.
 
--Create a feature branch: git checkout -b feature-name.
--Commit your changes: git commit -m 'Add some feature'.
--Push to the branch: git push origin feature-name.
--Open a pull request.
+- Create a feature branch: git checkout -b feature-name.
+- Commit your changes: git commit -m 'Add some feature'.
+- Push to the branch: git push origin feature-name.
+- Open a pull request.
 
 📜 License
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
