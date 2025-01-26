@@ -22,10 +22,13 @@
 ├── app.py # Main application file
 ├── templates/ # HTML templates for UI
 │ ├── index.html # Homepage to display tasks
-│ ├── add_task.html # Page for adding new tasks
-├── static/ # Static files (CSS, JS)
-├── models.py # Database models using SQLAlchemy
+│ ├── base.html
+| ├── update.html
+├── static/ #For static CSS and JS
+├── instance/
+| ├── todo.db # Database models using SQLAlchemy
 ├── requirements.txt # Dependencies
+├── vercel.json # to use vercel for deployment
 └── README.md # Project documentation
 ```
 
